@@ -24,7 +24,7 @@ h2 {
     float: left;
     margin: 20px;
 }
-#cont {
+.cont {
     float: right;
     color: grey;
     margin: 20px;
@@ -34,19 +34,7 @@ p {
     padding-bottom: 20px;
     text-align: justify;
 }
-#img1 {
-    width: 100%;
-    height: 90%;
-}
-#img2 {
-    width: 100%;
-    height: 90%;
-}
-#img3 {
-    width: 100%;
-    height: 90%;
-}
-#img4 {
+img {
     width: 100%;
     height: 90%;
 }
